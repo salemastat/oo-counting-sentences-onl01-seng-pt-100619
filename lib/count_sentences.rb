@@ -18,5 +18,5 @@ class String
       self.count_sentences
   end
   def count_sentences_words
-      binding.pry
+     
 end
